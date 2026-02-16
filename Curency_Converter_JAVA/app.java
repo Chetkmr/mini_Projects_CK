@@ -52,15 +52,15 @@ public class app {
                 System.out.println(otherAmount + " Amount is Converted into " + convertedMoney);
                 break;
             case 2:
-                convertedMoney = otherAmount * 0.60;
+                convertedMoney = otherAmount * 1.69;
                 System.out.println(otherAmount + " Amount is Converted into " + convertedMoney);
                 break;
             case 3:
-                convertedMoney = otherAmount * 110.57;
+                convertedMoney = otherAmount * 0.041;
                 System.out.println(otherAmount + " Amount is Converted into " + convertedMoney);
                 break;
             case 4:
-                convertedMoney = otherAmount * 78.21;
+                convertedMoney = otherAmount * 0.0093;
                 System.out.println(otherAmount + " Amount is Converted into " + convertedMoney);
                 break;
             default:
